@@ -61,6 +61,16 @@ After analysing the simulated output,
 (iii) Change the firing angle to 90 degree, simulate and draw the Output voltage and current waveform on the graph sheet.
 (iv)Write your inference.
 
-## Simulation
-## Output
-## Result
+## Simulation:
+![pe exp3](https://github.com/user-attachments/assets/5ca0aa7d-a5ad-4da9-bc23-1e8948d1c7d8)
+
+## Output:
+![WhatsApp Image 2025-10-26 at 11 43 56_e22a14f0](https://github.com/user-attachments/assets/36767959-e54c-407c-ab92-4f0d5fbe37d5)
+![WhatsApp Image 2025-10-26 at 11 43 56_e7d85d01](https://github.com/user-attachments/assets/a94627f3-ff32-4f8e-b355-cf7d477362a9)
+![WhatsApp Image 2025-10-26 at 11 43 56_11b453e3](https://github.com/user-attachments/assets/d9f661ee-0adb-44ed-a053-bb41a2f5294d)
+
+
+
+## Result:
+Ths the simulation and analysis of a half wave controlled rectifier using one thyristor is
+ designed and got the results using MATLAB.
